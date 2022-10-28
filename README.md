@@ -1,11 +1,12 @@
 ### Hi there 👋
+https://m2notes.notion.site/HTC-S-offs-16fc2f0fbea244c7812f5ce27a040dd4
 [![@me294 Holopin board](https://holopin.io/api/user/board?user=me294)](https://www.holopin.io/@me294)
 <!--
 **me294/me294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-https://m2notes.notion.site/HTC-S-offs-16fc2f0fbea244c7812f5ce27a040dd4
+
 
 
 - 🔭 I’m currently working on ...
