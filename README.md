@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+https://m2notes.notion.site/HTC-S-offs-16fc2f0fbea244c7812f5ce27a040dd4
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
